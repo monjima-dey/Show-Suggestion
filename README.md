@@ -1,8 +1,4 @@
-Got it ✅ — I looked at your attached notebook, and it’s essentially a **Netflix Show Recommender System** using **TF-IDF + Cosine Similarity**, with a **Streamlit web interface** for recommendations.
 
-Here’s a clear and complete **README.md** you can use for your GitHub repo:
-
-***
 
 # Netflix Show Recommender System
 
@@ -137,10 +133,6 @@ npx localtunnel --port 8501
 
 ***
 
-## 📜 License
-This project is open-source under the MIT License.
-
-***
 
 If you want, I can also prepare a **shorter README** with just quick-start instructions and a screenshot section, so it's GitHub-friendly.  
 
